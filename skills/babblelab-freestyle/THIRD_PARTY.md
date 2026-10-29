@@ -35,6 +35,8 @@ BabbleLab-Freestyle 独立维护。Copyright (c) 2026 BabbleLab contributors。
 
 ## 新增参考与原创练习
 
+0.3.0新增的即兴演讲、喷空接龙、说唱与押韵方法，参考 Hoopla、Toastmasters、Music Theory Online 和 Berklee 的公开材料，具体阅读范围与中文适配见[技法记录](https://github.com/yn-fan/BabbleLab-Freestyle/blob/main/docs/research/technique-methods.md)。仅整理方法与链接，不收录真实歌曲歌词、整篇教学或论文谱例；原创练习不署为原作者作品。
+
 PPT Karaoke 网站、Hoopla 教学及 B 站作品标题与短回复用于方法研究。来源、实际读取范围及必要短摘录见[取材说明](references/source-notes.md)和仓库研究记录。网页、课件、视频和评论仍归各自权利人；本项目许可不覆盖这些第三方作品。
 
 仓库不分发原始录像、真实幻灯片或大批评论；只记录必要短摘录、观察与公开来源。没有实际取得的台词不补写，字幕须回到原帧确认后才引用。其余练习和演示由 BabbleLab 新编，不冒充真实网友发言。

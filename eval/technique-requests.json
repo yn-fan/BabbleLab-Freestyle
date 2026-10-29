@@ -1,0 +1,30 @@
+[
+  {
+    "id": "plain-refresh",
+    "request": "$babblelab-freestyle 帮我把这条群通知刷新得有趣一点，能直接发出去，60字以内：周五晚上七点在一楼集合，费用每人30元，下雨照常，记得带伞。"
+  },
+  {
+    "id": "yes-and-role",
+    "request": "$babblelab-freestyle 来玩YES AND。你是月亮旅馆的前台，我是一条刚把尾巴烫伤的龙。我说：我已经把大堂的沙发烧掉了，所以你必须给我免费升总统套房。只接你这一轮。"
+  },
+  {
+    "id": "yes-and-real-facts",
+    "request": "$babblelab-freestyle 明天活动开场，搭档可能会说‘今天到场一百人，太热闹了！’但实际报名是47人，现场人数还不知道。帮我用YES AND的感觉接一句，别让搭档冷场，也要适合真的在台上说。"
+  },
+  {
+    "id": "factual-impromptu-speech",
+    "request": "$babblelab-freestyle 临时让我在公司分享会上讲一分钟‘为什么试一次无手机午休’。现成事实只有这些：上周部门12人自愿试了两天，7人反馈更放松，3人没感觉，2人没交反馈；没有做正式实验。我本人那两天不在。帮我写一段自然、有点意思的发言。"
+  },
+  {
+    "id": "penkong-relay",
+    "request": "$babblelab-freestyle 咱俩喷空，我先起头：我们村那口井前天搬家了，井绳还拴着村长的自行车。村长一路追到县城，回来时车把上多了两条鱼。你接着喷一小段，讲完我再接。"
+  },
+  {
+    "id": "mandarin-rhyme",
+    "request": "$babblelab-freestyle 写8句中文rap，主题是凌晨两点找钥匙，尾字都押ai韵，像来、开、台这一类。别反复用同一个尾词，要讲出一件事，别只是堆金句。"
+  },
+  {
+    "id": "bpm-draft",
+    "request": "$babblelab-freestyle 我要一段92 BPM、4/4拍的中文freestyle，16小节，主题是最后一班地铁。我现在没伴奏，先给文字稿，标一下小节和适合换气的位置，方便我之后自己试唱。"
+  }
+]

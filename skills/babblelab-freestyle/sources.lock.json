@@ -74,5 +74,21 @@
       "https://www.xiaohongshu.com/explore/689f2c5a000000001b0337a4",
       "https://www.xiaohongshu.com/explore/68a81390000000001d029937"
     ]
+  },
+  "technique_sources": {
+    "verified_on": "2026-10-29",
+    "skill_version": "0.3.0",
+    "record": "references/source-notes.md",
+    "mode": "method summaries and original adaptations; no copied lyrics",
+    "sources": [
+      "https://www.hooplaimpro.com/resource/yes-and",
+      "https://www.toastmasters.org/membership/club-meeting-roles/table-topics-speaker",
+      "https://www.toastmasters.org/magazine/magazine-issues/2020/oct/spontaneous-speaking",
+      "https://www.toastmasters.org/magazine/magazine-issues/2017/july2017/tabletopics",
+      "https://mtosmt.org/issues/mto.09.15.5/mto.09.15.5.adams.html",
+      "https://mtosmt.org/issues/mto.08.14.2/mto.08.14.2.adams.html",
+      "https://online.berklee.edu/takenote/how-to-write-better-lyrics/",
+      "https://online.berklee.edu/takenote/prosody-in-music-and-songwriting/"
+    ]
   }
 }

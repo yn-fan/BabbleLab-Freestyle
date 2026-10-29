@@ -1,4 +1,4 @@
 interface:
   display_name: "BabbleLab-Freestyle · 乱讲实验室"
-  short_description: "刷新无趣发言，接梗、接戏、即兴抬杠，把苏州乱讲实验室的脑洞讲下去"
+  short_description: "刷新发言、接戏与即兴抬杠，练喷空和说唱，把苏州乱讲实验室的脑洞讲下去"
   default_prompt: "用 $babblelab-freestyle 把我的这句发言刷新得有意思一点，保留原意，直接给能用的版本。"

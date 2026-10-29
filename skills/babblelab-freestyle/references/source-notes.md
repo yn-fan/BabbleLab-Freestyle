@@ -21,6 +21,10 @@
 
 更多标题、短摘录、原始接口和回复 ID，见仓库中的[中文研究记录](https://github.com/yn-fan/BabbleLab-Freestyle/blob/main/docs/research/chinese-banter.md)。英文来源逐项说明见[英文研究记录](https://github.com/yn-fan/BabbleLab-Freestyle/blob/main/docs/research/ppt-improv.md)。
 
+## 从文化参照到可用技法
+
+0.3.0补入按场景使用的[YES, AND](improv-and-debate.md)、[即兴演讲](impromptu-speaking.md)、[喷空接龙](penkong-and-story.md)和[说唱押韵](rap-and-rhythm.md)。各页保留自己的方法来源；本轮新增核对了 Toastmasters 的演讲建议、Music Theory Online 的flow研究与 Berklee 的歌词/韵律教学。中文操作与原创练习是本项目适配，不称为来源的统一公式，完整依据见[技法记录](https://github.com/yn-fan/BabbleLab-Freestyle/blob/main/docs/research/technique-methods.md)。
+
 ## 证据和作品分开
 
 首版外部参考只取得上述网页、B站题面和短回复，未观看那些演讲或取得其逐字稿。后续已补充两个创作者账号的实际图文、评论与两条录像的画面字幕，范围见[现场取材](https://github.com/yn-fan/BabbleLab-Freestyle/blob/main/docs/research/field-recordings.md)。取材规模仍小，不能叫全量历史或“网络幽默语料库”，也不能证明某条方法普遍更好笑。
