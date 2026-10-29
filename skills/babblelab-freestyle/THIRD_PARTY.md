@@ -2,6 +2,8 @@
 
 BabbleLab-Freestyle 独立维护。Copyright (c) 2026 BabbleLab contributors。
 
+本项目由苏州乱讲实验室的创作者发起；其确认小红书 @乱讲实验室、@黑糖不是黑桃 的相关内容由其制作，并要求用于本技能的创作方向。当前已采用的创作者材料与公开平台读取范围见[记录](https://github.com/yn-fan/BabbleLab-Freestyle/blob/main/docs/research/creator-materials.md)。只有实际取得并核对的内容才标为原文；活动参与者或其他评论者的作品不因出现在账号中就自动归本项目所有。
+
 本项目作为 BabbleLab-RenHua 的改编版，融合内容与新增文件采用 [CC BY-NC 4.0](LICENSE)，允许在遵守条款的前提下进行非商业分享和改编。公开源码不代表允许商业使用，也不属于 OSI 定义的开源许可证。商业使用须先取得相关权利人的许可，本项目不能代上游授权。
 
 下述第三方原有权利和许可继续保留。MIT 部分原有授权不被撤销，但不能据此把整个含 CC BY-NC 材料的衍生版本当作可任意商用的 MIT 软件。完整许可随技能携带。
@@ -35,6 +37,6 @@ BabbleLab-Freestyle 独立维护。Copyright (c) 2026 BabbleLab contributors。
 
 PPT Karaoke 网站、Hoopla 教学及 B 站作品标题与短回复用于方法研究。来源、实际读取范围及必要短摘录见[取材说明](references/source-notes.md)和仓库研究记录。网页、课件、视频和评论仍归各自权利人；本项目许可不覆盖这些第三方作品。
 
-我们没有搬运整场演讲、真实幻灯片或大批评论。没有完整录音或逐字稿的来源，不能标为已分析过现场台词。其余练习和演示由 BabbleLab 新编，不冒充真实网友发言。
+仓库不分发原始录像、真实幻灯片或大批评论；只记录必要短摘录、观察与公开来源。没有实际取得的台词不补写，字幕须回到原帧确认后才引用。其余练习和演示由 BabbleLab 新编，不冒充真实网友发言。
 
-上游作者、教学机构、活动讲者及评论者未为本项目背书。来源快照和校验值见 [sources.lock.json](sources.lock.json)。分发技能请一并保留本文件、`LICENSE`、`licenses/` 与来源说明。
+引用外部参考不意味着其上游作者、教学机构、讲者或评论者为本项目背书。来源快照和校验值见 [sources.lock.json](sources.lock.json)。分发技能请一并保留本文件、`LICENSE`、`licenses/` 与来源说明。

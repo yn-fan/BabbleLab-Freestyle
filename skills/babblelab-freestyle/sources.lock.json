@@ -56,5 +56,23 @@
       "source": "https://github.com/blader/humanizer/blob/0ef9fe5bc3572734fd3ae6c448fe00a30cd5dcf0/LICENSE",
       "sha256": "4ac4810254ab36d45419141aeb8e69bf50652cfafe5b2dab947d06d44e5cbf96"
     }
-  ]
+  ],
+  "creator_materials": {
+    "updated_on": "2026-10-29",
+    "kind": "creator-provided material plus sampled public profiles, authored notes/replies, and frame-verified video captions",
+    "accounts": [
+      "乱讲实验室",
+      "黑糖不是黑桃"
+    ],
+    "record": "references/luanjiang-lab.md",
+    "historical_xiaohongshu_posts": "sampled and read; not a complete account history",
+    "public_profiles": [
+      "https://www.xiaohongshu.com/user/profile/5c255b99000000000601ae8b",
+      "https://www.xiaohongshu.com/user/profile/65694168000000002002c83c"
+    ],
+    "video_sources": [
+      "https://www.xiaohongshu.com/explore/689f2c5a000000001b0337a4",
+      "https://www.xiaohongshu.com/explore/68a81390000000001d029937"
+    ]
+  }
 }
