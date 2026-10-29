@@ -1,0 +1,60 @@
+{
+  "schema_version": 1,
+  "verified_on": "2026-10-29",
+  "base": {
+    "repository": "https://github.com/yn-fan/BabbleLab-RenHua",
+    "revision": "278053b69f0c51dc2323c26dcf73c5929f0ad97e",
+    "license": "CC-BY-NC-4.0",
+    "files": [
+      {
+        "path": "skills/babblelab-renhua/SKILL.md",
+        "sha256": "50f7acd32d18c8e1f07608ec5c221704dfa09576551d4a121e8e15abba748fce",
+        "use": "adapted; not an unchanged bundled copy"
+      },
+      {
+        "path": "skills/babblelab-renhua/references/patterns-zh.md",
+        "sha256": "e5c0ebf0c445f51306c821da39e48612b522c136cefa9d84a28a084d79404d39",
+        "use": "adapted; not an unchanged bundled copy"
+      },
+      {
+        "path": "skills/babblelab-renhua/THIRD_PARTY.md",
+        "sha256": "50ad1b536eeabbb4549e324b409b677fcea92c7796e29ce06108732e52eba8be",
+        "use": "adapted; not an unchanged bundled copy"
+      },
+      {
+        "path": "tools/install.py",
+        "sha256": "c7b3040215e2a8c5adcd77d9e6a16bb9614f6f3840afcf11e16972f4e82db88c",
+        "use": "adapted; not an unchanged bundled copy"
+      }
+    ]
+  },
+  "indirect_sources": [
+    {
+      "repository": "https://github.com/larashero3-dotcom/lieflat-less-ai-tone",
+      "revision": "fe13f1a0712cd2c138b6cdc500a77927d5bf04ec",
+      "license": "CC-BY-NC-4.0"
+    },
+    {
+      "repository": "https://github.com/blader/humanizer",
+      "revision": "0ef9fe5bc3572734fd3ae6c448fe00a30cd5dcf0",
+      "license": "MIT"
+    }
+  ],
+  "retained_files": [
+    {
+      "path": "LICENSE",
+      "source": "https://creativecommons.org/licenses/by-nc/4.0/legalcode",
+      "sha256": "3711f963c05d0be80d53e5923308a6dee31b203da23435c9cfb7c7b6e4dd5e19"
+    },
+    {
+      "path": "licenses/lieflat-CC-BY-NC-4.0.txt",
+      "source": "https://github.com/larashero3-dotcom/lieflat-less-ai-tone/blob/fe13f1a0712cd2c138b6cdc500a77927d5bf04ec/LICENSE",
+      "sha256": "e4f5e51b1851ab7ab1146d4285b50ca7065a9797bc58c321bb3d793daa0a99f6"
+    },
+    {
+      "path": "licenses/humanizer-MIT.txt",
+      "source": "https://github.com/blader/humanizer/blob/0ef9fe5bc3572734fd3ae6c448fe00a30cd5dcf0/LICENSE",
+      "sha256": "4ac4810254ab36d45419141aeb8e69bf50652cfafe5b2dab947d06d44e5cbf96"
+    }
+  ]
+}
